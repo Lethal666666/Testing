@@ -1,7 +1,7 @@
 {
   "_manifest": {
     "name": "Express",
-    "id": "com.jakedup.hybrid",
+    "id": "com.james.hybrid",
     "version": 1626966890,
     "classPath": "",
     "permaUrl": "https://syncler-providers.herokuapp.com/syncler/express-hybrid.php"
